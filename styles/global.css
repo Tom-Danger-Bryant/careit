@@ -1,0 +1,7 @@
+.MuiInputLabel-filled.MuiInputLabel-shrink {
+    transform: translate(0px, 10px) scale(0.75)!important;
+}
+
+.MuiInputLabel-filled{
+    transform: translate(0px,20px) scale(1)!important;
+}
